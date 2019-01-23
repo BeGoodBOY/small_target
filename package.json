@@ -1,0 +1,27 @@
+{
+  "name": "small_target",
+  "version": "1.0.0",
+  "description": "cheers FE",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://begoodboy@github.com/BeGoodBOY/small_target.git"
+  },
+  "keywords": [
+    "FE",
+    "WEB",
+    "STUDY"
+  ],
+  "author": "libo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BeGoodBOY/small_target/issues"
+  },
+  "homepage": "https://github.com/BeGoodBOY/small_target#readme",
+  "dependencies": {
+    "npm": "^6.6.0"
+  }
+}
