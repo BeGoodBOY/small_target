@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/BeGoodBOY/small_target#readme",
   "dependencies": {
-    "npm": "^6.6.0"
+    "npm": "^6.14.6"
   }
 }
